@@ -103,7 +103,7 @@ Excel-Formula-CheatSheets/
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI | Data Science | Computer Vision Enthusiast
+💼 AI & ML | Data Science | Computer Vision Enthusiast
 
 📧 [Email](adarshlilhare@example.com)
 
