@@ -96,6 +96,7 @@ Excel-Formula-CheatSheets/
 
 --- 
 
+---
 ## 👨‍💻 Author
 
 ---
@@ -103,7 +104,7 @@ Excel-Formula-CheatSheets/
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI & ML | Data Science | Computer Vision Enthusiast
+💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor
 
 📧 [Email](adarshlilhare@example.com)
 
